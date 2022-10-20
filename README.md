@@ -51,16 +51,17 @@
 
 
 <h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Caknoooo@&compact=True"/>
 </a>
 <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riskiilyas&theme=radical&show_icons=true&locale=en&layout=compact" alt="riskiilyas" /> 
-<img width="400"src="https://github-readme-stats.vercel.app/api?username=riskiilyas&theme=radical"/></p><p></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Caknoooo&theme=radical&show_icons=true&locale=en&layout=compact" alt="riskiilyas" /> 
+<img width="400"src="https://github-readme-stats.vercel.app/api?username=Caknoooo&theme=radical"/></p><p></p>
 
-![Metrics](https://metrics.lecoq.io/92671053?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+<!-- ![Metrics](https://metrics.lecoq.io/92671053?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto) -->
 
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
