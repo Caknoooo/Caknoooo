@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner5.gif" alt="cover" />
+<img width="100%" height = "250px" src="https://user-images.githubusercontent.com/92671053/209422298-befebe75-e70e-4dab-93e4-d453ef900334.gif" alt="cover" />
 </div>
 
 <h1> Hello Everyone <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
