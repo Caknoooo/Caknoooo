@@ -8,11 +8,9 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=92671053.92671053)
 
-</p>
-<div size='20px'> Hi! My name is M Naufal Badruttamam. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
-
-<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Hello%2C++I'm+M+Naufal+Badruttamam;Informatics+Engineering+in+ITS;I'm+Learning++Software+Engineering%2C;Full+Stack+Web+Developer%2C;Artificial+Intelligence;Nice+to+meet+you..." alt="Typing SVG" /></a> <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='80px'> 
+  
+<h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
