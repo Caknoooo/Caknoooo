@@ -38,12 +38,9 @@
 <a href= https://github.com/92671053?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
-<a href = 'https://www.linkedin.com/in/526635217'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<h2> Connect with me </h2>
+<a href = 'https://www.linkedin.com/in/526635217'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 <a href = 'https://www.twitter.com/@Cakno00'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = '-'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = '-'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/92671053'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/Caknoooo/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
 <h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
@@ -54,10 +51,11 @@
 <br> -->
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Caknoooo&theme=radical&show_icons=true&locale=en&layout=compact" alt="riskiilyas" /> 
-<img width="400"src="https://github-readme-stats.vercel.app/api?username=Caknoooo&theme=radical"/></p><p></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Caknoooo&theme=radical&show_icons=true&locale=en&layout=compact" alt="caknoooo" /> 
+<img width="420"src="https://github-readme-stats.vercel.app/api?username=Caknoooo&theme=radical"/></p><p></p>
 
 <!-- ![Metrics](https://metrics.lecoq.io/92671053?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto) -->
+<br />
 
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
