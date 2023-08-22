@@ -1,11 +1,3 @@
-<br clear="both">
-
-<div align="center">
-  <img height="300" src="https://i.gifer.com/Me3P.gif"  />
-</div>
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/mnaufalbadruttamam/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=My&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -35,14 +27,15 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/8b/2c/e7/8b2ce74c25eaf076d642e40ff7c0ec73.gif"  />
+<div style="margin-right: 20px;">
+  <img align="right" height="200" src="https://i.pinimg.com/originals/8b/2c/e7/8b2ce74c25eaf076d642e40ff7c0ec73.gif"  />
+</div>
+
+<p style="margin-left: 20px;">I'm M Naufal Badruttamam from Indonesia<br><br>- 📫Undergraduate Student in Informatics Engineering Institute of Technology Sepuluh Nopember.<br>- 🔭 I’m working as Software Engineering, Data Analyst, Data Science, and Machine Learning.<br>- 📚 I'm currently learning Backend Developer, Data Analyst, and English Language.<br>- ⚡ In my free time I Playing Game, Coding, Anime, and Praying.</p>
+
 
 ###
-
-<p align="left">I'm M Naufal Badruttamam from Indonesia<br><br>- 📫Undergraduate Student in Informatics Engineering Institute of Technology Sepuluh Nopember.<br>- 🔭 I’m working as Software Engineering, Data Analyst, Data Science, and Machine Learning.<br>- 📚 I'm currently learning Backend Developer, Data Analyst, and English Language.<br>- ⚡ In my free time I Playing Game, Coding, Anime, and Praying.</p>
-
-###
-
+<br>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -144,14 +137,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Caknoooo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Caknoooo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caknoooo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Caknoooo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
