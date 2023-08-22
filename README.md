@@ -24,6 +24,7 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
+<hr/>
 
 ###
 
@@ -33,10 +34,10 @@
 
 <p style="margin-left: 20px;">I'm M Naufal Badruttamam from Indonesia<br><br>- 📫Undergraduate Student in Informatics Engineering Institute of Technology Sepuluh Nopember.<br>- 🔭 I’m working as Software Engineering, Data Analyst, Data Science, and Machine Learning.<br>- 📚 I'm currently learning Backend Developer, Data Analyst, and English Language.<br>- ⚡ In my free time I Playing Game, Coding, Anime, and Praying.</p>
 
-
 ###
 <br>
 <h3 align="left">🛠 Language and tools</h3>
+<hr/>
 
 ###
 
@@ -133,6 +134,7 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+<hr/>
 
 ###
 
