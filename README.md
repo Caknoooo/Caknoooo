@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/mnaufalbadruttamam/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=My&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -13,14 +13,12 @@
 
 ###
 
-<div align="center">
-  [![committers.top badge](https://user-badge.committers.top/indonesia/Caknoooo.svg)](https://user-badge.committers.top/indonesia/Caknoooo)
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Caknoooo.Caknoooo&"  />
-</div>
+[![committers.top badge](https://user-badge.committers.top/indonesia/Caknoooo.svg)](https://user-badge.committers.top/indonesia/Caknoooo)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Caknoooo.Caknoooo&"  />
 
 ###
 
-<h1 align="center">Hey Everyone 👋</h1>
+<h1>Hey Everyone 👋</h1>
 
 ###
 
@@ -29,7 +27,7 @@
 ###
 
 <div style="margin-right: 20px;">
-  <img align="right" height="200" src="https://i.pinimg.com/originals/8b/2c/e7/8b2ce74c25eaf076d642e40ff7c0ec73.gif"  />
+  <img align="right" height="200" src="https://i.pinimg.com/originals/9e/b6/45/9eb64510150a5eaa7bc6e89e366508e7.gif"  />
 </div>
 
 <p style="margin-left: 20px;">I'm M Naufal Badruttamam from Indonesia<br><br>- 📫Undergraduate Student in Informatics Engineering Institute of Technology Sepuluh Nopember.<br>- 🔭 I’m working as Software Engineering, Data Analyst, Data Science, and Machine Learning.<br>- 📚 I'm currently learning Backend Developer, Data Analyst, and English Language.<br>- ⚡ In my free time I Playing Game, Coding, Anime, and Praying.</p>
@@ -133,7 +131,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats </h3>
 <hr/>
 
 ###
@@ -141,7 +139,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Caknoooo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Caknoooo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://api.githubtrends.io/user/svg/Caknoooo/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves" />
 </div>
 
 ###
