@@ -30,7 +30,7 @@
   <img align="right" height="200" src="https://i.pinimg.com/originals/9e/b6/45/9eb64510150a5eaa7bc6e89e366508e7.gif"  />
 </div>
 
-<p style="margin-left: 20px;">I'm M Naufal Badruttamam from Indonesia<br><br>- 📫Undergraduate Student in Informatics Engineering Institute of Technology Sepuluh Nopember.<br>- 🔭 I’m working as Software Engineering, Data Analyst, Data Science, and Machine Learning.<br>- 📚 I'm currently learning Backend Developer, Data Analyst, and English Language.<br>- ⚡ In my free time I Playing Game, Coding, Anime, and Praying.</p>
+<p style="margin-left: 20px;">I'm M Naufal Badruttamam from Indonesia<br><br>- 📫 Undergraduate Student in Informatics Engineering Institute of Technology Sepuluh Nopember.<br>- 🔭 I’m working as Software Engineering, Data Engineering, Cloud Engineer, and AI/Machine Learning.<br>- 📚 I'm currently learning make iOS App, Data Science, AI/ML, and English Language.<br>- ⚡ In my free time I Playing Game, Coding, Anime, KDrama, and Praying.</p>
 
 ###
 <br>
